@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  SwiftCase
+//
+//  Created by 栗子 on 2018/5/24.
+//  Copyright © 2018年 http://www.cnblogs.com/Lrx-lizi/.     https://github.com/lrxlizi/. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+import UIKit
+
+
+#endif /* PrefixHeader_pch */
